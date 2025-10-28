@@ -4,7 +4,7 @@
         <title>关于本站❤️</title>
         <link>https://valaxy.site/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Tue, 28 Oct 2025 07:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 12:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © Yexkr</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[关于最近发生的事]]></title>
+            <link>https://valaxy.site/posts/about_recently_1</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/about_recently_1</guid>
+            <pubDate>Tue, 28 Oct 2025 19:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>关于最近</h1>
+<h2>关于博客</h2>
+<p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>
+<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了.</p>
+<p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/about_recently_1" target="_blank">https://valaxy.site/posts/about_recently_1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
             <link>https://valaxy.site/posts/hello-valaxy</link>
