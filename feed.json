@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Valaxy Theme Yun",
+    "title": "关于本站❤️",
     "home_page_url": "https://valaxy.site/",
     "feed_url": "https://valaxy.site/feed.json",
-    "description": "Valaxy Theme Yun Preview.",
-    "icon": "https://valaxy.site/valaxy-logo.png",
+    "description": "这里是我的个人博客, 文章在下方哦😚",
+    "icon": "https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg",
     "author": {
-        "name": "云游君",
+        "name": "Yexkr",
         "url": "https://valaxy.site"
     },
     "items": [
@@ -18,7 +18,7 @@
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",
             "author": {
-                "name": "云游君",
+                "name": "Yexkr",
                 "url": "https://valaxy.site"
             }
         }
