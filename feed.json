@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "关于本站❤️",
-    "home_page_url": "https://valaxy.site/",
-    "feed_url": "https://valaxy.site/feed.json",
+    "home_page_url": "https://blog.yexkr.top/",
+    "feed_url": "https://blog.yexkr.top/feed.json",
     "description": "这里是我的个人博客, 文章在下方哦😚",
     "icon": "https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg",
     "author": {
@@ -11,11 +11,23 @@
     },
     "items": [
         {
-            "id": "https://valaxy.site/posts/about_recently_1",
-            "content_html": "<h1>关于最近</h1>\n<h2>关于博客</h2>\n<p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>\n<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了.</p>\n<p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/about_recently_1\" target=\"_blank\">https://valaxy.site/posts/about_recently_1</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/about_recently_1",
+            "id": "https://blog.yexkr.top/posts/ms_word_preium",
+            "content_html": "<h1>文章</h1>\n<h2>发现</h2>\n<p>其实刚买平板就下载了Word, 但是由于平板的尺寸超过了10.1英寸, 所以必要要买365会员才能用.</p>\n<p>本来这件事就过去了, WPS将就着用用也不是不行(实际上非常不好用, 一打开就叫我开会员, 开通知, 只能说又不能同步OneDrive, 还烦, 虽然免费, 但一点都不好用). 今天朋友偶然谈起这个软件, 想着既然是按照尺寸检测, 那么能不能通过修改系统的参数来骗过软件呢?</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/ms_word_preium\" target=\"_blank\">https://blog.yexkr.top/posts/ms_word_preium</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/ms_word_preium",
+            "title": "平板上Word的, 一点研究",
+            "date_modified": "2025-11-06T06:14:46.333Z",
+            "date_published": "2025-11-06T13:53:00.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.yexkr.top/posts/about_recently_1",
+            "content_html": "<h1>关于最近</h1>\n<h2>关于博客</h2>\n<p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>\n<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了. (老实了, 现在我直接把幸存的代码全上传了)</p>\n<p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/about_recently_1\" target=\"_blank\">https://blog.yexkr.top/posts/about_recently_1</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/about_recently_1",
             "title": "关于最近发生的事",
-            "date_modified": "2025-10-28T12:25:53.133Z",
+            "date_modified": "2025-10-28T12:35:30.620Z",
             "date_published": "2025-10-28T19:25:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -23,9 +35,9 @@
             }
         },
         {
-            "id": "https://valaxy.site/posts/hello-valaxy",
-            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/hello-valaxy",
+            "id": "https://blog.yexkr.top/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/hello-valaxy\" target=\"_blank\">https://blog.yexkr.top/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/hello-valaxy",
             "title": "Hello, Valaxy!",
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",

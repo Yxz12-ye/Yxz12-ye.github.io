@@ -2,42 +2,54 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>关于本站❤️</title>
-        <link>https://valaxy.site/</link>
+        <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Tue, 28 Oct 2025 12:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 06:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>关于本站❤️</title>
             <url>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</url>
-            <link>https://valaxy.site/</link>
+            <link>https://blog.yexkr.top/</link>
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © Yexkr</copyright>
-        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[平板上Word的, 一点研究]]></title>
+            <link>https://blog.yexkr.top/posts/ms_word_preium</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/ms_word_preium</guid>
+            <pubDate>Thu, 06 Nov 2025 13:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>文章</h1>
+<h2>发现</h2>
+<p>其实刚买平板就下载了Word, 但是由于平板的尺寸超过了10.1英寸, 所以必要要买365会员才能用.</p>
+<p>本来这件事就过去了, WPS将就着用用也不是不行(实际上非常不好用, 一打开就叫我开会员, 开通知, 只能说又不能同步OneDrive, 还烦, 虽然免费, 但一点都不好用). 今天朋友偶然谈起这个软件, 想着既然是按照尺寸检测, 那么能不能通过修改系统的参数来骗过软件呢?</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/ms_word_preium" target="_blank">https://blog.yexkr.top/posts/ms_word_preium</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[关于最近发生的事]]></title>
-            <link>https://valaxy.site/posts/about_recently_1</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/about_recently_1</guid>
+            <link>https://blog.yexkr.top/posts/about_recently_1</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/about_recently_1</guid>
             <pubDate>Tue, 28 Oct 2025 19:25:00 GMT</pubDate>
             <content:encoded><![CDATA[<h1>关于最近</h1>
 <h2>关于博客</h2>
 <p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>
-<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了.</p>
+<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了. (老实了, 现在我直接把幸存的代码全上传了)</p>
 <p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/about_recently_1" target="_blank">https://valaxy.site/posts/about_recently_1</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/about_recently_1" target="_blank">https://blog.yexkr.top/posts/about_recently_1</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
-            <link>https://valaxy.site/posts/hello-valaxy</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/hello-valaxy</guid>
+            <link>https://blog.yexkr.top/posts/hello-valaxy</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/hello-valaxy</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>Valaxy</h2>
 <p>Next Generation Static Blog Framework.</p>
 <p>Write your first post!</p>
 <h2>Usage</h2>
 <p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/hello-valaxy" target="_blank">https://blog.yexkr.top/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
     </channel>
