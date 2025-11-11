@@ -4,7 +4,7 @@
         <title>关于本站❤️</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Thu, 06 Nov 2025 12:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 07:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2025游戏鉴赏]]></title>
+            <link>https://blog.yexkr.top/posts/2025_game</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025_game</guid>
+            <pubDate>Sat, 08 Nov 2025 15:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>我比较喜欢玩游戏, 而这个文章呢会介绍今年所有玩过的游戏(不是今年发布的游戏!)</p>
+</blockquote>
+<h2>星际拓荒</h2>
+<p>以有限生命叩问无限宇宙，用渺小个体重构时空意义——《星际拓荒》在22分钟的循环中绽</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025_game" target="_blank">https://blog.yexkr.top/posts/2025_game</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[平板上Word的, 一点研究]]></title>
             <link>https://blog.yexkr.top/posts/ms_word_preium</link>
@@ -37,19 +50,6 @@
 <p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了. (老实了, 现在我直接把幸存的代码全上传了)</p>
 <p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>
 <br/><p>访问 <a href="https://blog.yexkr.top/posts/about_recently_1" target="_blank">https://blog.yexkr.top/posts/about_recently_1</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (Yexkr)</author>
-        </item>
-        <item>
-            <title><![CDATA[Hello, Valaxy!]]></title>
-            <link>https://blog.yexkr.top/posts/hello-valaxy</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/hello-valaxy</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/hello-valaxy" target="_blank">https://blog.yexkr.top/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
     </channel>

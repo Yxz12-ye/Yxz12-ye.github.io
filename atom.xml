@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2025-11-06T12:38:33.234Z</updated>
+    <updated>2025-11-11T07:57:22.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -15,6 +15,24 @@
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[2025游戏鉴赏]]></title>
+        <id>https://blog.yexkr.top/posts/2025_game</id>
+        <link href="https://blog.yexkr.top/posts/2025_game"/>
+        <updated>2025-11-08T08:39:25.538Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>我比较喜欢玩游戏, 而这个文章呢会介绍今年所有玩过的游戏(不是今年发布的游戏!)</p>
+</blockquote>
+<h2>星际拓荒</h2>
+<p>以有限生命叩问无限宇宙，用渺小个体重构时空意义——《星际拓荒》在22分钟的循环中绽</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025_game" target="_blank">https://blog.yexkr.top/posts/2025_game</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-08T15:23:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[平板上Word的, 一点研究]]></title>
         <id>https://blog.yexkr.top/posts/ms_word_preium</id>
@@ -49,23 +67,5 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-10-28T19:25:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
-        <id>https://blog.yexkr.top/posts/hello-valaxy</id>
-        <link href="https://blog.yexkr.top/posts/hello-valaxy"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/hello-valaxy" target="_blank">https://blog.yexkr.top/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>Yexkr</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2022-04-01T00:00:00.000Z</published>
     </entry>
 </feed>
