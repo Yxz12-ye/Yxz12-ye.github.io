@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2025-11-15T10:25:49.418Z</updated>
+    <updated>2025-11-16T14:07:25.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -15,6 +15,26 @@
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[CodeRegistration和MetadataRegistration的获取]]></title>
+        <id>https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</id>
+        <link href="https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取"/>
+        <updated>2025-11-16T14:07:09.004Z</updated>
+        <content type="html"><![CDATA[<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>
+<p>(我也不知道我为什么要搞这么硬核)</p>
+<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>
+<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>
+<p>可以得到:</p>
+<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0
+</code></pre>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取" target="_blank">https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-16T20:02:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025游戏鉴赏]]></title>
         <id>https://blog.yexkr.top/posts/2025_game</id>
