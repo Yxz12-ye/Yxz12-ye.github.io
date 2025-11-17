@@ -12,10 +12,10 @@
     "items": [
         {
             "id": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
-            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>(我也不知道我为什么要搞这么硬核)</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
+            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
             "title": "CodeRegistration和MetadataRegistration的获取",
-            "date_modified": "2025-11-16T14:07:09.004Z",
+            "date_modified": "2025-11-17T07:55:43.672Z",
             "date_published": "2025-11-16T20:02:00.000Z",
             "author": {
                 "name": "Yexkr",
