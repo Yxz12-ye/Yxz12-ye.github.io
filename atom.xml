@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2025-11-17T07:56:52.092Z</updated>
+    <updated>2025-11-27T11:04:05.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -15,6 +15,42 @@
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[基于DCTF-CNN的射频指纹识别]]></title>
+        <id>https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别</id>
+        <link href="https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别"/>
+        <updated>2025-11-27T11:02:22.589Z</updated>
+        <content type="html"><![CDATA[<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>
+<p>论文地址: [Deep Learning Based RF Fingerprint Identification Using Dif</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别" target="_blank">https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-27T19:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qml与C++后端简单交互]]></title>
+        <id>https://blog.yexkr.top/posts/从零开始学QtQuick_1</id>
+        <link href="https://blog.yexkr.top/posts/从零开始学QtQuick_1"/>
+        <updated>2025-11-27T11:02:43.323Z</updated>
+        <content type="html"><![CDATA[<h2>全局暴露</h2>
+<p>这里用CPP创建一个类</p>
+<p><code>MyQmlClass.h</code></p>
+<pre><code class="language-c++">#pragma once
+
+#include &lt;QObject&gt;
+
+class My</code></pre>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/从零开始学QtQuick_1" target="_blank">https://blog.yexkr.top/posts/从零开始学QtQuick_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-27T19:02:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CodeRegistration和MetadataRegistration的获取]]></title>
         <id>https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</id>
@@ -72,6 +108,26 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-11-06T13:53:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkDown编辑器的设计]]></title>
+        <id>https://blog.yexkr.top/posts/markdown_editor_design</id>
+        <link href="https://blog.yexkr.top/posts/markdown_editor_design"/>
+        <updated>2025-11-26T09:02:34.358Z</updated>
+        <content type="html"><![CDATA[<h1>Markdown编辑器</h1>
+<h2>想法</h2>
+<p>咕咕咕</p>
+<h2>库</h2>
+<p>Qt+cmark-gfm</p>
+<p>包管理依旧vcpkg(那我还装Qt干嘛,算了部分依赖吧)</p>
+<h2>设计</h2>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/markdown_editor_design" target="_blank">https://blog.yexkr.top/posts/markdown_editor_design</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-28T21:10:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于最近发生的事]]></title>

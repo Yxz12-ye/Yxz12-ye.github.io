@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别",
+            "content_html": "<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>\n<p>论文地址: [Deep Learning Based RF Fingerprint Identification Using Dif</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别\" target=\"_blank\">https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别",
+            "title": "基于DCTF-CNN的射频指纹识别",
+            "date_modified": "2025-11-27T11:02:22.589Z",
+            "date_published": "2025-11-27T19:10:00.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.yexkr.top/posts/从零开始学QtQuick_1",
+            "content_html": "<h2>全局暴露</h2>\n<p>这里用CPP创建一个类</p>\n<p><code>MyQmlClass.h</code></p>\n<pre><code class=\"language-c++\">#pragma once\n\n#include &lt;QObject&gt;\n\nclass My</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/从零开始学QtQuick_1\" target=\"_blank\">https://blog.yexkr.top/posts/从零开始学QtQuick_1</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/从零开始学QtQuick_1",
+            "title": "Qml与C++后端简单交互",
+            "date_modified": "2025-11-27T11:02:43.323Z",
+            "date_published": "2025-11-27T19:02:00.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
             "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
@@ -41,6 +65,18 @@
             "title": "平板上Word的, 一点研究",
             "date_modified": "2025-11-06T06:14:46.333Z",
             "date_published": "2025-11-06T13:53:00.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.yexkr.top/posts/markdown_editor_design",
+            "content_html": "<h1>Markdown编辑器</h1>\n<h2>想法</h2>\n<p>咕咕咕</p>\n<h2>库</h2>\n<p>Qt+cmark-gfm</p>\n<p>包管理依旧vcpkg(那我还装Qt干嘛,算了部分依赖吧)</p>\n<h2>设计</h2>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/markdown_editor_design\" target=\"_blank\">https://blog.yexkr.top/posts/markdown_editor_design</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/markdown_editor_design",
+            "title": "MarkDown编辑器的设计",
+            "date_modified": "2025-11-26T09:02:34.358Z",
+            "date_published": "2025-10-28T21:10:00.000Z",
             "author": {
                 "name": "Yexkr",
                 "url": "https://valaxy.site"
