@@ -11,11 +11,23 @@
     },
     "items": [
         {
-            "id": "https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别",
-            "content_html": "<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>\n<p>论文地址: [Deep Learning Based RF Fingerprint Identification Using Dif</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别\" target=\"_blank\">https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/基于DCTF-CNN的射频指纹识别",
+            "id": "https://blog.yexkr.top/posts/2025/Json序列化的实现",
+            "content_html": "<h1>用C++20实现Json反序列化</h1>\n<h2>概述</h2>\n<p>其实是2025WoC, 感觉反序列化思路还挺有趣的, 所以就写个文章记录一下</p>\n<p><s>(顺便弥补博客多天没更新...)</s></p>\n<p>核心思路是<strong>递归下降</strong>, 一开始不理解, 到后面的顿悟, 是个很有趣的过程</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Json序列化的实现\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Json序列化的实现</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/Json序列化的实现",
+            "title": "用C++20实现Json反序列化",
+            "date_modified": "2025-12-24T22:55:23.000Z",
+            "date_published": "2025-12-24T22:55:23.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别",
+            "content_html": "<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>\n<p>论文地址: <a href=\"https://ieeexplore.ieee.org/document/8888209\">Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure | IEEE Journals &amp; Magazine | IEEE Xplore</a></p>\n<h2>1. 接收信号模型</h2>\n<p>假设我们接收到的最原始基带 I/Q 信号为：</p>\n<p>$$<br>\ny[n] = y_I[n] + j \\cdot y_Q[n], \\quad n = 0, 1, 2, \\dots, N-1<br>\n$$</p>\n<p>其中 $y_I[n]$ 是实部（I路），$y_Q[n]$ 是虚部（Q路），$N$ 是信号长度。</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别\" target=\"_blank\">https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别",
             "title": "基于DCTF-CNN的射频指纹识别",
-            "date_modified": "2025-11-27T11:02:22.589Z",
+            "date_modified": "2025-11-27T19:10:00.000Z",
             "date_published": "2025-11-27T19:10:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -23,11 +35,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/从零开始学QtQuick_1",
-            "content_html": "<h2>全局暴露</h2>\n<p>这里用CPP创建一个类</p>\n<p><code>MyQmlClass.h</code></p>\n<pre><code class=\"language-c++\">#pragma once\n\n#include &lt;QObject&gt;\n\nclass My</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/从零开始学QtQuick_1\" target=\"_blank\">https://blog.yexkr.top/posts/从零开始学QtQuick_1</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/从零开始学QtQuick_1",
+            "id": "https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1",
+            "content_html": "<h2>全局暴露</h2>\n<p>这里用CPP创建一个类</p>\n<p><code>MyQmlClass.h</code></p>\n<pre><code class=\"language-c++\">#pragma once\n\n#include &lt;QObject&gt;\n\nclass MyQmlClass : public QObject {\n    Q_OBJECT\nprivate:\n    int m_value;\n\npublic:\n    explicit MyQmlClass(QObject* parent = nullptr) : QObject(parent) {};\n    ~MyQmlClass() {};\n\n    Q_INVOKABLE void setValue(int value);\n    Q_INVOKABLE int getValue();\n};\n\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1\" target=\"_blank\">https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1",
             "title": "Qml与C++后端简单交互",
-            "date_modified": "2025-11-27T11:02:43.323Z",
+            "date_modified": "2025-11-26T21:10:00.000Z",
             "date_published": "2025-11-27T19:02:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -35,11 +47,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
-            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/Unity游戏CodeRegistration和MetadataRegistration的获取",
+            "id": "https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取",
+            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取",
             "title": "CodeRegistration和MetadataRegistration的获取",
-            "date_modified": "2025-11-17T07:55:43.672Z",
+            "date_modified": "2025-11-16T20:02:00.000Z",
             "date_published": "2025-11-16T20:02:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -47,11 +59,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025_game",
-            "content_html": "<blockquote>\n<p>我比较喜欢玩游戏, 而这个文章呢会介绍今年所有玩过的游戏(不是今年发布的游戏!)</p>\n</blockquote>\n<h2>星际拓荒</h2>\n<p>以有限生命叩问无限宇宙，用渺小个体重构时空意义——《星际拓荒》在22分钟的循环中绽</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025_game\" target=\"_blank\">https://blog.yexkr.top/posts/2025_game</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025_game",
+            "id": "https://blog.yexkr.top/posts/2025/2025_game",
+            "content_html": "<blockquote>\n<p>我比较喜欢玩游戏, 而这个文章呢会介绍今年所有玩过的游戏(不是今年发布的游戏!)</p>\n</blockquote>\n<h2>星际拓荒</h2>\n<p>以有限生命叩问无限宇宙，用渺小个体重构时空意义——《星际拓荒》在22分钟的循环中绽放出超越光年的哲学光芒，堪称游戏载体的宇宙诗篇。</p>\n<p>整个游戏是一个巨大的解密, 当我们直视诺麦雕像, 并在22分钟后重新看到雕像时, 游戏正式开始. 虽然全游戏没有任何主线任务的引导, 但是好奇心总会驱使我们去解开这个世界的谜题(比如为什么太阳会爆炸? 我们为什么会循坏?) 总之我对于这款游戏的评价就是一部非常不错的游戏, 几乎找不到类似的更好的游戏</p>\n<h2>蓝途王子</h2>\n<p>肉鸽+解密, 我很少去玩这种类型的游戏, 不过最吸引我的是他的画风(我是真喜欢像素风和这种低多边形画风)</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/2025_game\" target=\"_blank\">https://blog.yexkr.top/posts/2025/2025_game</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/2025_game",
             "title": "2025游戏鉴赏",
-            "date_modified": "2025-11-15T10:23:36.148Z",
+            "date_modified": "2025-11-08T15:23:00.000Z",
             "date_published": "2025-11-08T15:23:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -59,11 +71,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/ms_word_preium",
-            "content_html": "<h1>文章</h1>\n<h2>发现</h2>\n<p>其实刚买平板就下载了Word, 但是由于平板的尺寸超过了10.1英寸, 所以必要要买365会员才能用.</p>\n<p>本来这件事就过去了, WPS将就着用用也不是不行(实际上非常不好用, 一打开就叫我开会员, 开通知, 只能说又不能同步OneDrive, 还烦, 虽然免费, 但一点都不好用). 今天朋友偶然谈起这个软件, 想着既然是按照尺寸检测, 那么能不能通过修改系统的参数来骗过软件呢?</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/ms_word_preium\" target=\"_blank\">https://blog.yexkr.top/posts/ms_word_preium</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/ms_word_preium",
+            "id": "https://blog.yexkr.top/posts/2025/ms_word_preium",
+            "content_html": "<h1>文章</h1>\n<h2>发现</h2>\n<p>其实刚买平板就下载了Word, 但是由于平板的尺寸超过了10.1英寸, 所以必要要买365会员才能用.</p>\n<p>本来这件事就过去了, WPS将就着用用也不是不行(实际上非常不好用, 一打开就叫我开会员, 开通知, 只能说又不能同步OneDrive, 还烦, 虽然免费, 但一点都不好用). 今天朋友偶然谈起这个软件, 想着既然是按照尺寸检测, 那么能不能通过修改系统的参数来骗过软件呢?</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/ms_word_preium\" target=\"_blank\">https://blog.yexkr.top/posts/2025/ms_word_preium</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/ms_word_preium",
             "title": "平板上Word的, 一点研究",
-            "date_modified": "2025-11-06T06:14:46.333Z",
+            "date_modified": "2025-11-06T13:53:00.000Z",
             "date_published": "2025-11-06T13:53:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -71,11 +83,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/markdown_editor_design",
-            "content_html": "<h1>Markdown编辑器</h1>\n<h2>想法</h2>\n<p>咕咕咕</p>\n<h2>库</h2>\n<p>Qt+cmark-gfm</p>\n<p>包管理依旧vcpkg(那我还装Qt干嘛,算了部分依赖吧)</p>\n<h2>设计</h2>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/markdown_editor_design\" target=\"_blank\">https://blog.yexkr.top/posts/markdown_editor_design</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/markdown_editor_design",
+            "id": "https://blog.yexkr.top/posts/2025/markdown_editor_design",
+            "content_html": "<h1>Markdown编辑器</h1>\n<h2>想法</h2>\n<p>咕咕咕</p>\n<h2>库</h2>\n<p>Qt+cmark-gfm</p>\n<p>包管理依旧vcpkg(那我还装Qt干嘛,算了部分依赖吧)</p>\n<h2>设计</h2>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/markdown_editor_design\" target=\"_blank\">https://blog.yexkr.top/posts/2025/markdown_editor_design</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/markdown_editor_design",
             "title": "MarkDown编辑器的设计",
-            "date_modified": "2025-11-26T09:02:34.358Z",
+            "date_modified": "2025-10-28T21:10:00.000Z",
             "date_published": "2025-10-28T21:10:00.000Z",
             "author": {
                 "name": "Yexkr",
@@ -83,11 +95,11 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/about_recently_1",
-            "content_html": "<h1>关于最近</h1>\n<h2>关于博客</h2>\n<p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>\n<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了. (老实了, 现在我直接把幸存的代码全上传了)</p>\n<p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/about_recently_1\" target=\"_blank\">https://blog.yexkr.top/posts/about_recently_1</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/about_recently_1",
+            "id": "https://blog.yexkr.top/posts/2025/about_recently_1",
+            "content_html": "<h1>关于最近</h1>\n<h2>关于博客</h2>\n<p>起始从博客首页的小字就能知道最近博客发生了什么, 一开始是部署博客服务器提供商疑似跑路了(其实没跑, 不过是换了个域名), 拿到新域名后依然购买了服务器一个月, 但是并没有激活, 客服竟然公然劝我去举报他们公司.......过了一段时间后补偿了一个服务器给我, 不过就没用过了. 不过公网IP似乎没有收回, 不过也用不了.</p>\n<p>其实服务器跑路也没什么, 因为博客源代码都在电脑上, 只要有服务器就能马上部署, 之后你也能猜到了, 就是电脑被格了. (老实了, 现在我直接把幸存的代码全上传了)</p>\n<p>这里我是真很想去质问小米的官方镜像, 原以为就是普通的重装, 结果直接把整个硬盘都格了(包括分配给Linux系统分区), 重装前还想着什么备份了, 什么还没备份, 哈哈哈, 所以为什么小米的工程师不写清楚, 这会格式化所有硬盘😡, 说是损失惨重吧, 感觉又没什么, 过去两三周也没什么感觉真正的消失了, 对了你一定很想问为什么我要格机. 请看下面</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/about_recently_1\" target=\"_blank\">https://blog.yexkr.top/posts/2025/about_recently_1</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/about_recently_1",
             "title": "关于最近发生的事",
-            "date_modified": "2025-10-28T12:35:30.620Z",
+            "date_modified": "2025-10-28T19:25:00.000Z",
             "date_published": "2025-10-28T19:25:00.000Z",
             "author": {
                 "name": "Yexkr",
