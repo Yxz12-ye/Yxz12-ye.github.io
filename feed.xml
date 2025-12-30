@@ -4,7 +4,7 @@
         <title>关于本站❤️</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Mon, 29 Dec 2025 07:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Dec 2025 09:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -29,8 +29,8 @@
         </item>
         <item>
             <title><![CDATA[从汇编层面学习C++右值引用]]></title>
-            <link>https://blog.yexkr.top/posts/2025/C++右值引用</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/C++右值引用</guid>
+            <link>https://blog.yexkr.top/posts/2025/C++_rvalue_reference</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/C++_rvalue_reference</guid>
             <pubDate>Mon, 29 Dec 2025 15:42:00 GMT</pubDate>
             <content:encoded><![CDATA[<h1>从汇编层面学习C++右值引用</h1>
 <h2>概述</h2>
@@ -41,26 +41,26 @@
 </blockquote>
 <p>众所周知, 右值是临时的值是不能取地址的值, 有时候我们只想临时使用右值而又不想拷贝或移动, 那就可以使用C++的右值特性, 那右值具体是如何实现的呢?</p>
 <p>这里我准备了一个测试代码</p>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/C++右值引用" target="_blank">https://blog.yexkr.top/posts/2025/C++右值引用</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/C++_rvalue_reference" target="_blank">https://blog.yexkr.top/posts/2025/C++_rvalue_reference</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
             <title><![CDATA[用C++20实现Json反序列化]]></title>
-            <link>https://blog.yexkr.top/posts/2025/Json序列化的实现</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/Json序列化的实现</guid>
+            <link>https://blog.yexkr.top/posts/2025/Json_serialization</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/Json_serialization</guid>
             <pubDate>Wed, 24 Dec 2025 22:55:23 GMT</pubDate>
             <content:encoded><![CDATA[<h1>用C++20实现Json反序列化</h1>
 <h2>概述</h2>
 <p>其实是2025WoC, 感觉反序列化思路还挺有趣的, 所以就写个文章记录一下</p>
 <p><s>(顺便弥补博客多天没更新...)</s></p>
 <p>核心思路是<strong>递归下降</strong>, 一开始不理解, 到后面的顿悟, 是个很有趣的过程</p>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/Json序列化的实现" target="_blank">https://blog.yexkr.top/posts/2025/Json序列化的实现</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/Json_serialization" target="_blank">https://blog.yexkr.top/posts/2025/Json_serialization</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
             <title><![CDATA[基于DCTF-CNN的射频指纹识别]]></title>
-            <link>https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别</guid>
+            <link>https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT</guid>
             <pubDate>Thu, 27 Nov 2025 19:10:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>
 <p>论文地址: <a href="https://ieeexplore.ieee.org/document/8888209">Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure | IEEE Journals &amp; Magazine | IEEE Xplore</a></p>
@@ -70,13 +70,13 @@
 y[n] = y_I[n] + j \cdot y_Q[n], \quad n = 0, 1, 2, \dots, N-1<br>
 $$</p>
 <p>其中 $y_I[n]$ 是实部（I路），$y_Q[n]$ 是虚部（Q路），$N$ 是信号长度。</p>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别" target="_blank">https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT" target="_blank">https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
             <title><![CDATA[Qml与C++后端简单交互]]></title>
-            <link>https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1</guid>
+            <link>https://blog.yexkr.top/posts/2025/QtQuick_study_1</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/QtQuick_study_1</guid>
             <pubDate>Thu, 27 Nov 2025 19:02:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>全局暴露</h2>
 <p>这里用CPP创建一个类</p>
@@ -99,13 +99,13 @@ public:
 };
 
 </code></pre>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1" target="_blank">https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/QtQuick_study_1" target="_blank">https://blog.yexkr.top/posts/2025/QtQuick_study_1</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
             <title><![CDATA[CodeRegistration和MetadataRegistration的获取]]></title>
-            <link>https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取</guid>
+            <link>https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration</guid>
             <pubDate>Sun, 16 Nov 2025 20:02:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>
 <p>:::tip<br>
@@ -117,7 +117,7 @@ public:
 <p>可以得到:</p>
 <pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0
 </code></pre>
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取" target="_blank">https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration" target="_blank">https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>

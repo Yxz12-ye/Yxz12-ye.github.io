@@ -23,9 +23,9 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025/C++右值引用",
-            "content_html": "<h1>从汇编层面学习C++右值引用</h1>\n<h2>概述</h2>\n<blockquote>\n<p>前言: 看这个最好需要有一定内存布局和汇编的基础</p>\n<p>然后文章写到一半发现我也被搞糊涂了, 又去好好学习了一下<code>C++</code>😭</p>\n<p>最后还是借助了AI辅助编写</p>\n</blockquote>\n<p>众所周知, 右值是临时的值是不能取地址的值, 有时候我们只想临时使用右值而又不想拷贝或移动, 那就可以使用C++的右值特性, 那右值具体是如何实现的呢?</p>\n<p>这里我准备了一个测试代码</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/C++右值引用\" target=\"_blank\">https://blog.yexkr.top/posts/2025/C++右值引用</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025/C++右值引用",
+            "id": "https://blog.yexkr.top/posts/2025/C++_rvalue_reference",
+            "content_html": "<h1>从汇编层面学习C++右值引用</h1>\n<h2>概述</h2>\n<blockquote>\n<p>前言: 看这个最好需要有一定内存布局和汇编的基础</p>\n<p>然后文章写到一半发现我也被搞糊涂了, 又去好好学习了一下<code>C++</code>😭</p>\n<p>最后还是借助了AI辅助编写</p>\n</blockquote>\n<p>众所周知, 右值是临时的值是不能取地址的值, 有时候我们只想临时使用右值而又不想拷贝或移动, 那就可以使用C++的右值特性, 那右值具体是如何实现的呢?</p>\n<p>这里我准备了一个测试代码</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/C++_rvalue_reference\" target=\"_blank\">https://blog.yexkr.top/posts/2025/C++_rvalue_reference</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/C++_rvalue_reference",
             "title": "从汇编层面学习C++右值引用",
             "date_modified": "2025-12-27T20:29:09.000Z",
             "date_published": "2025-12-29T15:42:00.000Z",
@@ -35,9 +35,9 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025/Json序列化的实现",
-            "content_html": "<h1>用C++20实现Json反序列化</h1>\n<h2>概述</h2>\n<p>其实是2025WoC, 感觉反序列化思路还挺有趣的, 所以就写个文章记录一下</p>\n<p><s>(顺便弥补博客多天没更新...)</s></p>\n<p>核心思路是<strong>递归下降</strong>, 一开始不理解, 到后面的顿悟, 是个很有趣的过程</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Json序列化的实现\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Json序列化的实现</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025/Json序列化的实现",
+            "id": "https://blog.yexkr.top/posts/2025/Json_serialization",
+            "content_html": "<h1>用C++20实现Json反序列化</h1>\n<h2>概述</h2>\n<p>其实是2025WoC, 感觉反序列化思路还挺有趣的, 所以就写个文章记录一下</p>\n<p><s>(顺便弥补博客多天没更新...)</s></p>\n<p>核心思路是<strong>递归下降</strong>, 一开始不理解, 到后面的顿悟, 是个很有趣的过程</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Json_serialization\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Json_serialization</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/Json_serialization",
             "title": "用C++20实现Json反序列化",
             "date_modified": "2025-12-24T22:55:23.000Z",
             "date_published": "2025-12-24T22:55:23.000Z",
@@ -47,9 +47,9 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别",
-            "content_html": "<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>\n<p>论文地址: <a href=\"https://ieeexplore.ieee.org/document/8888209\">Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure | IEEE Journals &amp; Magazine | IEEE Xplore</a></p>\n<h2>1. 接收信号模型</h2>\n<p>假设我们接收到的最原始基带 I/Q 信号为：</p>\n<p>$$<br>\ny[n] = y_I[n] + j \\cdot y_Q[n], \\quad n = 0, 1, 2, \\dots, N-1<br>\n$$</p>\n<p>其中 $y_I[n]$ 是实部（I路），$y_Q[n]$ 是虚部（Q路），$N$ 是信号长度。</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别\" target=\"_blank\">https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025/基于DCTF-CNN的射频指纹识别",
+            "id": "https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT",
+            "content_html": "<p>文章由AI辅助生成(感觉AI讲的比我好, 不过我会批注)</p>\n<p>论文地址: <a href=\"https://ieeexplore.ieee.org/document/8888209\">Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure | IEEE Journals &amp; Magazine | IEEE Xplore</a></p>\n<h2>1. 接收信号模型</h2>\n<p>假设我们接收到的最原始基带 I/Q 信号为：</p>\n<p>$$<br>\ny[n] = y_I[n] + j \\cdot y_Q[n], \\quad n = 0, 1, 2, \\dots, N-1<br>\n$$</p>\n<p>其中 $y_I[n]$ 是实部（I路），$y_Q[n]$ 是虚部（Q路），$N$ 是信号长度。</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT\" target=\"_blank\">https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/RFF_Based_on_DCTFT",
             "title": "基于DCTF-CNN的射频指纹识别",
             "date_modified": "2025-11-27T19:10:00.000Z",
             "date_published": "2025-11-27T19:10:00.000Z",
@@ -59,9 +59,9 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1",
-            "content_html": "<h2>全局暴露</h2>\n<p>这里用CPP创建一个类</p>\n<p><code>MyQmlClass.h</code></p>\n<pre><code class=\"language-c++\">#pragma once\n\n#include &lt;QObject&gt;\n\nclass MyQmlClass : public QObject {\n    Q_OBJECT\nprivate:\n    int m_value;\n\npublic:\n    explicit MyQmlClass(QObject* parent = nullptr) : QObject(parent) {};\n    ~MyQmlClass() {};\n\n    Q_INVOKABLE void setValue(int value);\n    Q_INVOKABLE int getValue();\n};\n\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1\" target=\"_blank\">https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025/从零开始学QtQuick_1",
+            "id": "https://blog.yexkr.top/posts/2025/QtQuick_study_1",
+            "content_html": "<h2>全局暴露</h2>\n<p>这里用CPP创建一个类</p>\n<p><code>MyQmlClass.h</code></p>\n<pre><code class=\"language-c++\">#pragma once\n\n#include &lt;QObject&gt;\n\nclass MyQmlClass : public QObject {\n    Q_OBJECT\nprivate:\n    int m_value;\n\npublic:\n    explicit MyQmlClass(QObject* parent = nullptr) : QObject(parent) {};\n    ~MyQmlClass() {};\n\n    Q_INVOKABLE void setValue(int value);\n    Q_INVOKABLE int getValue();\n};\n\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/QtQuick_study_1\" target=\"_blank\">https://blog.yexkr.top/posts/2025/QtQuick_study_1</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/QtQuick_study_1",
             "title": "Qml与C++后端简单交互",
             "date_modified": "2025-11-26T21:10:00.000Z",
             "date_published": "2025-11-27T19:02:00.000Z",
@@ -71,9 +71,9 @@
             }
         },
         {
-            "id": "https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取",
-            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取</a> 阅读全文。</p>",
-            "url": "https://blog.yexkr.top/posts/2025/Unity游戏CodeRegistration和MetadataRegistration的获取",
+            "id": "https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration",
+            "content_html": "<h2>Unity游戏CodeRegistration和MetadataRegistration的获取</h2>\n<p>:::tip<br>\n前因是我在玩蓝途王子, 打翻译Mod时需要反编译Il2Cpp, 而BepInex还不支持v31的元数据, 遂用Il2CppDumper, 结果一开始选错文件导致一直反编译失败, 所以一些内容我就删了, 以免造成误导.<br>\n:::</p>\n<p>那么直接开始吧</p>\n<p>首先用IDA Pro打开游戏的GameAssembly.dll</p>\n<p>在字符串视图搜索<code>global-metadata.dat</code>, (如果没搜到就是加密了, 目前还不会解密)</p>\n<p>可以得到:</p>\n<pre><code>.rdata:0000000182CC0660 67 6C 6F 62 61 6C 2D 6D 65 74     aGlobalMetadata db 'global-metadata.dat',0\n</code></pre>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration\" target=\"_blank\">https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2025/Unity_game_get_CodeRegistration_and_MetadataRegistration",
             "title": "CodeRegistration和MetadataRegistration的获取",
             "date_modified": "2025-11-16T20:02:00.000Z",
             "date_published": "2025-11-16T20:02:00.000Z",
