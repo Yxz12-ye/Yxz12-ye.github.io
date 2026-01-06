@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/2026/cxx_basic",
+            "content_html": "<p>::: tip</p>\n<p>这篇文章是存货, 其实早该发了, 不过一直放到现在..</p>\n<p>:::</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/cxx_basic\" target=\"_blank\">https://blog.yexkr.top/posts/2026/cxx_basic</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/cxx_basic",
+            "title": "C++第一次授课文档",
+            "date_modified": "2026-01-06T16:40:32.000Z",
+            "date_published": "2026-01-06T16:40:32.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://blog.yexkr.top/posts/2026/about_rust_and_cxx",
+            "content_html": "<h1>关于Rust和C++</h1>\n<h2>概述</h2>\n<p>:::warning<br>\n事先声明: 本人只学了2小时<code>Rust</code>就写了这篇文章, 如果哪有错误还请指出<br>\n:::</p>\n<p>最近看到说<code>Rust</code>进入<code>Linux</code>内核, 还有什么Rust将要取代<code>C++</code>之类的话(还有美国安全调查报告😂), 那正好最近空闲, 就直接学一学<code>Rust</code>. 看看<code>Rust</code>是否真就是所谓的<code>Safe C++</code>.</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/about_rust_and_cxx\" target=\"_blank\">https://blog.yexkr.top/posts/2026/about_rust_and_cxx</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/about_rust_and_cxx",
+            "title": "关于Rust和C++",
+            "date_modified": "2026-01-03T17:13:48.000Z",
+            "date_published": "2026-01-03T17:13:48.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/2025/C++_rvalue_reference",
             "content_html": "<h1>从汇编层面学习C++右值引用</h1>\n<h2>概述</h2>\n<blockquote>\n<p>前言: 看这个最好需要有一定内存布局和汇编的基础</p>\n<p>然后文章写到一半发现我也被搞糊涂了, 又去好好学习了一下<code>C++</code>😭</p>\n<p>最后还是借助了AI辅助编写</p>\n</blockquote>\n<p>众所周知, 右值是临时的值是不能取地址的值, 有时候我们只想临时使用右值而又不想拷贝或移动, 那就可以使用C++的右值特性, 那右值具体是如何实现的呢?</p>\n<p>这里我准备了一个测试代码</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2025/C++_rvalue_reference\" target=\"_blank\">https://blog.yexkr.top/posts/2025/C++_rvalue_reference</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/2025/C++_rvalue_reference",

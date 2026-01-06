@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2025-12-31T03:02:46.413Z</updated>
+    <updated>2026-01-06T09:06:54.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -14,7 +14,42 @@
     <subtitle>这里是我的个人博客, 文章在下方哦😚</subtitle>
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
-    <rights>CC BY-NC-SA 4.0 2025 © Yexkr</rights>
+    <rights>CC BY-NC-SA 4.0 2026 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[C++第一次授课文档]]></title>
+        <id>https://blog.yexkr.top/posts/2026/cxx_basic</id>
+        <link href="https://blog.yexkr.top/posts/2026/cxx_basic"/>
+        <updated>2026-01-06T16:40:32.000Z</updated>
+        <content type="html"><![CDATA[<p>::: tip</p>
+<p>这篇文章是存货, 其实早该发了, 不过一直放到现在..</p>
+<p>:::</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/cxx_basic" target="_blank">https://blog.yexkr.top/posts/2026/cxx_basic</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-01-06T16:40:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Rust和C++]]></title>
+        <id>https://blog.yexkr.top/posts/2026/about_rust_and_cxx</id>
+        <link href="https://blog.yexkr.top/posts/2026/about_rust_and_cxx"/>
+        <updated>2026-01-03T17:13:48.000Z</updated>
+        <content type="html"><![CDATA[<h1>关于Rust和C++</h1>
+<h2>概述</h2>
+<p>:::warning<br>
+事先声明: 本人只学了2小时<code>Rust</code>就写了这篇文章, 如果哪有错误还请指出<br>
+:::</p>
+<p>最近看到说<code>Rust</code>进入<code>Linux</code>内核, 还有什么Rust将要取代<code>C++</code>之类的话(还有美国安全调查报告😂), 那正好最近空闲, 就直接学一学<code>Rust</code>. 看看<code>Rust</code>是否真就是所谓的<code>Safe C++</code>.</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/about_rust_and_cxx" target="_blank">https://blog.yexkr.top/posts/2026/about_rust_and_cxx</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-01-03T17:13:48.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从汇编层面学习C++右值引用]]></title>
         <id>https://blog.yexkr.top/posts/2025/C++_rvalue_reference</id>
