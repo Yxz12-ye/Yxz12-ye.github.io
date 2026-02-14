@@ -4,7 +4,7 @@
         <title>关于本站❤️</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Tue, 06 Jan 2026 09:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 02:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,18 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rime输入法和万象拼音Pro的配置]]></title>
+            <link>https://blog.yexkr.top/posts/2026/rime_and_wanxiang</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/rime_and_wanxiang</guid>
+            <pubDate>Sat, 14 Feb 2026 09:54:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Rime输入法和万象拼音Pro的配置</h1>
+<h2>前言</h2>
+<p>为什么要配置<code>Rime</code>输入法呢, 这还要从微软的<code>terminal</code>说起, 最近似乎是某个更新把terminal更新了, 然后导致我的搜狗输入法无法在<code>terminal</code>中出现候选词提示框, 起初我还以为是搜狗的问题, 然后就想着把搜狗输入法干掉...</p>
+<!-- 在这里写文章概述 -->
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/rime_and_wanxiang" target="_blank">https://blog.yexkr.top/posts/2026/rime_and_wanxiang</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[C++第一次授课文档]]></title>
             <link>https://blog.yexkr.top/posts/2026/cxx_basic</link>

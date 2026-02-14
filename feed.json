@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/2026/rime_and_wanxiang",
+            "content_html": "<h1>Rime输入法和万象拼音Pro的配置</h1>\n<h2>前言</h2>\n<p>为什么要配置<code>Rime</code>输入法呢, 这还要从微软的<code>terminal</code>说起, 最近似乎是某个更新把terminal更新了, 然后导致我的搜狗输入法无法在<code>terminal</code>中出现候选词提示框, 起初我还以为是搜狗的问题, 然后就想着把搜狗输入法干掉...</p>\n<!-- 在这里写文章概述 -->\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/rime_and_wanxiang\" target=\"_blank\">https://blog.yexkr.top/posts/2026/rime_and_wanxiang</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/rime_and_wanxiang",
+            "title": "Rime输入法和万象拼音Pro的配置",
+            "date_modified": "2026-02-14T09:54:29.000Z",
+            "date_published": "2026-02-14T09:54:29.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/2026/cxx_basic",
             "content_html": "<p>::: tip</p>\n<p>这篇文章是存货, 其实早该发了, 不过一直放到现在..</p>\n<p>:::</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/cxx_basic\" target=\"_blank\">https://blog.yexkr.top/posts/2026/cxx_basic</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/2026/cxx_basic",
