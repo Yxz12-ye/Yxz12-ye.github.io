@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2026-02-14T02:27:36.652Z</updated>
+    <updated>2026-03-18T08:09:33.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -19,10 +19,11 @@
         <title type="html"><![CDATA[Rime输入法和万象拼音Pro的配置]]></title>
         <id>https://blog.yexkr.top/posts/2026/rime_and_wanxiang</id>
         <link href="https://blog.yexkr.top/posts/2026/rime_and_wanxiang"/>
-        <updated>2026-02-14T09:54:29.000Z</updated>
+        <updated>2026-03-18T09:54:29.000Z</updated>
         <content type="html"><![CDATA[<h1>Rime输入法和万象拼音Pro的配置</h1>
 <h2>前言</h2>
 <p>为什么要配置<code>Rime</code>输入法呢, 这还要从微软的<code>terminal</code>说起, 最近似乎是某个更新把terminal更新了, 然后导致我的搜狗输入法无法在<code>terminal</code>中出现候选词提示框, 起初我还以为是搜狗的问题, 然后就想着把搜狗输入法干掉...</p>
+<p>(理论上这文章年前就应该发了, 不过因为懒就忘了, 最近把Rime搞崩了, 所以又要配置一遍... 然后把先前简陋的教程丰富一遍...)</p>
 <!-- 在这里写文章概述 -->
 <br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/rime_and_wanxiang" target="_blank">https://blog.yexkr.top/posts/2026/rime_and_wanxiang</a> 阅读全文。</p>]]></content>
         <author>
@@ -30,7 +31,76 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2026-02-14T09:54:29.000Z</published>
+        <published>2026-03-18T09:54:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IO的深入学习]]></title>
+        <id>https://blog.yexkr.top/posts/2026/explore_io</id>
+        <link href="https://blog.yexkr.top/posts/2026/explore_io"/>
+        <updated>2026-02-17T09:58:55.000Z</updated>
+        <content type="html"><![CDATA[<h1>IO的深入学习</h1>
+<h2>概述</h2>
+<p>在很久之前写C语言作业时遇到一个问题, 从stdin获取用户输入时会获取到两次用户输入, 以下是一个小demo</p>
+<pre><code class="language-c">#include &lt;stdio.h&gt;
+
+void print_menu()
+{
+    printf(&quot;1.abc\n2.bcd\n3.ccc\n&gt;&gt;&gt;&quot;);
+}
+
+void process(char cho)
+{
+    switch (cho)
+    {
+    case '1':
+        printf(&quot;abc\n&quot;);
+        break;
+    case '2':
+        printf(&quot;bcd\n&quot;);
+        break;
+    case '3':
+        printf(&quot;ccc\n&quot;);
+        break;
+    default:
+        printf(&quot;err\n&quot;);
+        break;
+    }
+}
+
+int main()
+{
+    while (1)
+    {
+        print_menu();
+        char choic = getchar();
+        printf(&quot;\n&quot;);
+        process(choic);
+    }
+}
+</code></pre>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/explore_io" target="_blank">https://blog.yexkr.top/posts/2026/explore_io</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-02-17T09:58:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是新的一年!]]></title>
+        <id>https://blog.yexkr.top/posts/2026/spring_festival_2026</id>
+        <link href="https://blog.yexkr.top/posts/2026/spring_festival_2026"/>
+        <updated>2026-02-14T17:36:06.000Z</updated>
+        <content type="html"><![CDATA[<h1>又是新的一年!</h1>
+<h2>概述</h2>
+<!-- 在这里写文章概述 -->
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/spring_festival_2026" target="_blank">https://blog.yexkr.top/posts/2026/spring_festival_2026</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-02-14T17:36:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[C++第一次授课文档]]></title>
