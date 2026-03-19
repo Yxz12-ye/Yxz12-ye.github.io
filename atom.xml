@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>关于本站❤️</title>
-    <updated>2026-03-18T08:09:33.927Z</updated>
+    <updated>2026-03-19T13:30:32.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -15,6 +15,39 @@
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[从黑框框到UI界面]]></title>
+        <id>https://blog.yexkr.top/posts/2026/explore_ui</id>
+        <link href="https://blog.yexkr.top/posts/2026/explore_ui"/>
+        <updated>2026-03-19T21:28:33.000Z</updated>
+        <content type="html"><![CDATA[<h1>从黑框框到UI界面</h1>
+<h2>概述</h2>
+<!-- 在这里写文章概述 -->
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/explore_ui" target="_blank">https://blog.yexkr.top/posts/2026/explore_ui</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-03-19T21:28:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于AI的看法]]></title>
+        <id>https://blog.yexkr.top/posts/2026/about_vibe_coding_1</id>
+        <link href="https://blog.yexkr.top/posts/2026/about_vibe_coding_1"/>
+        <updated>2026-03-18T16:19:38.000Z</updated>
+        <content type="html"><![CDATA[<h1>关于AI的看法</h1>
+<h2>概述</h2>
+<!-- 在这里写文章概述 -->
+<p>不知不觉, 从我听到ChatGPT到现在已经过了三年了, 当时的ChatGPT还只是头脑简单的小孩, 很容易被一些反常理的问题而难住(比如弱智吧的题目), 而现在, 参数量达到千万级别后, AI似乎已经变得无所不能了. 写作文, 写代码, 生成视频, 理解图片, 几乎样样全能.</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/about_vibe_coding_1" target="_blank">https://blog.yexkr.top/posts/2026/about_vibe_coding_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-03-18T16:19:38.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rime输入法和万象拼音Pro的配置]]></title>
         <id>https://blog.yexkr.top/posts/2026/rime_and_wanxiang</id>

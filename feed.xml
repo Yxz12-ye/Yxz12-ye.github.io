@@ -4,7 +4,7 @@
         <title>关于本站❤️</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Wed, 18 Mar 2026 08:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 13:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,29 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[从黑框框到UI界面]]></title>
+            <link>https://blog.yexkr.top/posts/2026/explore_ui</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/explore_ui</guid>
+            <pubDate>Thu, 19 Mar 2026 21:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>从黑框框到UI界面</h1>
+<h2>概述</h2>
+<!-- 在这里写文章概述 -->
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/explore_ui" target="_blank">https://blog.yexkr.top/posts/2026/explore_ui</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于AI的看法]]></title>
+            <link>https://blog.yexkr.top/posts/2026/about_vibe_coding_1</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/about_vibe_coding_1</guid>
+            <pubDate>Wed, 18 Mar 2026 16:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>关于AI的看法</h1>
+<h2>概述</h2>
+<!-- 在这里写文章概述 -->
+<p>不知不觉, 从我听到ChatGPT到现在已经过了三年了, 当时的ChatGPT还只是头脑简单的小孩, 很容易被一些反常理的问题而难住(比如弱智吧的题目), 而现在, 参数量达到千万级别后, AI似乎已经变得无所不能了. 写作文, 写代码, 生成视频, 理解图片, 几乎样样全能.</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/about_vibe_coding_1" target="_blank">https://blog.yexkr.top/posts/2026/about_vibe_coding_1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[Rime输入法和万象拼音Pro的配置]]></title>
             <link>https://blog.yexkr.top/posts/2026/rime_and_wanxiang</link>
