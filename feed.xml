@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>关于本站❤️</title>
+        <title>Yexkr的博客</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Thu, 19 Mar 2026 14:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 08:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>关于本站❤️</title>
+            <title>Yexkr的博客</title>
             <url>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</url>
             <link>https://blog.yexkr.top/</link>
         </image>
