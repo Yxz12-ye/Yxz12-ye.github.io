@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/2026/cpp_oop_again",
+            "content_html": "<h1>C++的面向对象的再学习</h1>\n<h2>前言</h2>\n<p>关于我为什么在学习C++很久后又要重新去再学一遍OOP呢? 我感觉就是在实际使用中会碰到各种奇妙的问题, 而这些问题在我初次学习(有学校教的还有自学的)面向对象时其实并没有遇到过, 并且面向对象的精髓我也并没有掌握多少, 于是我就想深入的去学习面向对象, 同时写下这篇文章放到博客.</p>\n<h2>知识回顾</h2>\n<p><code>struct</code>在C++中相较于C得到了一些扩充, 除了能存储数据外也能封装函数了, 而<code>class</code>则又在<code>struct</code>的基础上增加了访问权限, 至少我在之前授课的时候就是这么引入<code>class</code>的, 那么在引入后就开始讲继承、多态等内容了, 但其实有个问题就是, 为什么要面向对象呢?</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/cpp_oop_again\" target=\"_blank\">https://blog.yexkr.top/posts/2026/cpp_oop_again</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/cpp_oop_again",
+            "title": "C++的面向对象的再学习",
+            "date_modified": "2026-04-15T15:47:14.000Z",
+            "date_published": "2026-04-15T15:47:14.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/2026/explore_ui",
             "content_html": "<h1>从黑框框到UI界面</h1>\n<h2>概述</h2>\n<!-- 在这里写文章概述 -->\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/explore_ui\" target=\"_blank\">https://blog.yexkr.top/posts/2026/explore_ui</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/2026/explore_ui",

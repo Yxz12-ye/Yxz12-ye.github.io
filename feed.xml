@@ -4,7 +4,7 @@
         <title>Yexkr的博客</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Sat, 28 Mar 2026 08:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 07:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C++的面向对象的再学习]]></title>
+            <link>https://blog.yexkr.top/posts/2026/cpp_oop_again</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/cpp_oop_again</guid>
+            <pubDate>Wed, 15 Apr 2026 15:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>C++的面向对象的再学习</h1>
+<h2>前言</h2>
+<p>关于我为什么在学习C++很久后又要重新去再学一遍OOP呢? 我感觉就是在实际使用中会碰到各种奇妙的问题, 而这些问题在我初次学习(有学校教的还有自学的)面向对象时其实并没有遇到过, 并且面向对象的精髓我也并没有掌握多少, 于是我就想深入的去学习面向对象, 同时写下这篇文章放到博客.</p>
+<h2>知识回顾</h2>
+<p><code>struct</code>在C++中相较于C得到了一些扩充, 除了能存储数据外也能封装函数了, 而<code>class</code>则又在<code>struct</code>的基础上增加了访问权限, 至少我在之前授课的时候就是这么引入<code>class</code>的, 那么在引入后就开始讲继承、多态等内容了, 但其实有个问题就是, 为什么要面向对象呢?</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/cpp_oop_again" target="_blank">https://blog.yexkr.top/posts/2026/cpp_oop_again</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[从黑框框到UI界面]]></title>
             <link>https://blog.yexkr.top/posts/2026/explore_ui</link>
