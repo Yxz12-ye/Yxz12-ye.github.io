@@ -4,7 +4,7 @@
         <title>Yexkr的博客</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Wed, 15 Apr 2026 07:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 07:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[使用ESP32S3实现Wake On Lan]]></title>
+            <link>https://blog.yexkr.top/posts/2026/esp32s3_wol</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/esp32s3_wol</guid>
+            <pubDate>Sun, 07 Jun 2026 13:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>使用ESP32S3实现Wake On Lan</h1>
+<h2>前言</h2>
+<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/esp32s3_wol" target="_blank">https://blog.yexkr.top/posts/2026/esp32s3_wol</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
         <item>
             <title><![CDATA[C++的面向对象的再学习]]></title>
             <link>https://blog.yexkr.top/posts/2026/cpp_oop_again</link>
@@ -25,17 +36,6 @@
 <h2>知识回顾</h2>
 <p><code>struct</code>在C++中相较于C得到了一些扩充, 除了能存储数据外也能封装函数了, 而<code>class</code>则又在<code>struct</code>的基础上增加了访问权限, 至少我在之前授课的时候就是这么引入<code>class</code>的, 那么在引入后就开始讲继承、多态等内容了, 但其实有个问题就是, 为什么要面向对象呢?</p>
 <br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/cpp_oop_again" target="_blank">https://blog.yexkr.top/posts/2026/cpp_oop_again</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (Yexkr)</author>
-        </item>
-        <item>
-            <title><![CDATA[从黑框框到UI界面]]></title>
-            <link>https://blog.yexkr.top/posts/2026/explore_ui</link>
-            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/explore_ui</guid>
-            <pubDate>Thu, 19 Mar 2026 21:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>从黑框框到UI界面</h1>
-<h2>概述</h2>
-<!-- 在这里写文章概述 -->
-<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/explore_ui" target="_blank">https://blog.yexkr.top/posts/2026/explore_ui</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
         <item>
