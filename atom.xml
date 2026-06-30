@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>Yexkr的博客</title>
-    <updated>2026-06-07T07:08:20.862Z</updated>
+    <updated>2026-06-30T11:10:10.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -16,13 +16,35 @@
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © Yexkr</rights>
     <entry>
+        <title type="html"><![CDATA[如何禁用CSDN重定向]]></title>
+        <id>https://blog.yexkr.top/posts/2026/csdn_redirection_block</id>
+        <link href="https://blog.yexkr.top/posts/2026/csdn_redirection_block"/>
+        <updated>2026-06-30T18:19:11.000Z</updated>
+        <content type="html"><![CDATA[<h1>如何禁用CSDN重定向</h1>
+<h2>事先声明</h2>
+<p>::: warning</p>
+<blockquote>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+</blockquote>
+<p>:::</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/csdn_redirection_block" target="_blank">https://blog.yexkr.top/posts/2026/csdn_redirection_block</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-06-30T18:19:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用ESP32S3实现Wake On Lan]]></title>
         <id>https://blog.yexkr.top/posts/2026/esp32s3_wol</id>
         <link href="https://blog.yexkr.top/posts/2026/esp32s3_wol"/>
         <updated>2026-06-07T13:59:40.000Z</updated>
         <content type="html"><![CDATA[<h1>使用ESP32S3实现Wake On Lan</h1>
 <h2>前言</h2>
-<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果</p>
+<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果一直失败, 因此感觉很不服, 然后手上刚好有大一玩单片机买的<code>ESP32S3</code>(虽然在我上大二后就把它抛弃了), 恰好支持Wi-Fi, 那还说啥了, 直接开造!</p>
 <br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/esp32s3_wol" target="_blank">https://blog.yexkr.top/posts/2026/esp32s3_wol</a> 阅读全文。</p>]]></content>
         <author>
             <name>Yexkr</name>

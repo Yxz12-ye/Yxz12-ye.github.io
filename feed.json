@@ -11,8 +11,20 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/2026/csdn_redirection_block",
+            "content_html": "<h1>如何禁用CSDN重定向</h1>\n<h2>事先声明</h2>\n<p>::: warning</p>\n<blockquote>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n</blockquote>\n<p>:::</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/csdn_redirection_block\" target=\"_blank\">https://blog.yexkr.top/posts/2026/csdn_redirection_block</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/csdn_redirection_block",
+            "title": "如何禁用CSDN重定向",
+            "date_modified": "2026-06-30T18:19:11.000Z",
+            "date_published": "2026-06-30T18:19:11.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/2026/esp32s3_wol",
-            "content_html": "<h1>使用ESP32S3实现Wake On Lan</h1>\n<h2>前言</h2>\n<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/esp32s3_wol\" target=\"_blank\">https://blog.yexkr.top/posts/2026/esp32s3_wol</a> 阅读全文。</p>",
+            "content_html": "<h1>使用ESP32S3实现Wake On Lan</h1>\n<h2>前言</h2>\n<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果一直失败, 因此感觉很不服, 然后手上刚好有大一玩单片机买的<code>ESP32S3</code>(虽然在我上大二后就把它抛弃了), 恰好支持Wi-Fi, 那还说啥了, 直接开造!</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/esp32s3_wol\" target=\"_blank\">https://blog.yexkr.top/posts/2026/esp32s3_wol</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/2026/esp32s3_wol",
             "title": "使用ESP32S3实现Wake On Lan",
             "date_modified": "2026-06-07T13:59:40.000Z",

@@ -4,7 +4,7 @@
         <title>Yexkr的博客</title>
         <link>https://blog.yexkr.top/</link>
         <description>这里是我的个人博客, 文章在下方哦😚</description>
-        <lastBuildDate>Sun, 07 Jun 2026 07:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 11:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,13 +15,30 @@
         <copyright>CC BY-NC-SA 4.0 2026 © Yexkr</copyright>
         <atom:link href="https://blog.yexkr.top/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[如何禁用CSDN重定向]]></title>
+            <link>https://blog.yexkr.top/posts/2026/csdn_redirection_block</link>
+            <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/csdn_redirection_block</guid>
+            <pubDate>Tue, 30 Jun 2026 18:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>如何禁用CSDN重定向</h1>
+<h2>事先声明</h2>
+<p>::: warning</p>
+<blockquote>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>
+</blockquote>
+<p>:::</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/csdn_redirection_block" target="_blank">https://blog.yexkr.top/posts/2026/csdn_redirection_block</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Yexkr)</author>
+        </item>
+        <item>
             <title><![CDATA[使用ESP32S3实现Wake On Lan]]></title>
             <link>https://blog.yexkr.top/posts/2026/esp32s3_wol</link>
             <guid isPermaLink="false">https://blog.yexkr.top/posts/2026/esp32s3_wol</guid>
             <pubDate>Sun, 07 Jun 2026 13:59:40 GMT</pubDate>
             <content:encoded><![CDATA[<h1>使用ESP32S3实现Wake On Lan</h1>
 <h2>前言</h2>
-<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果</p>
+<p>最近闲来没事(其实事情一大堆, 忙里偷闲说是), 早上刚好看到<code>WOL</code>的技术讲解视频, 想着之前一直想实现WOL, 结果一直失败, 因此感觉很不服, 然后手上刚好有大一玩单片机买的<code>ESP32S3</code>(虽然在我上大二后就把它抛弃了), 恰好支持Wi-Fi, 那还说啥了, 直接开造!</p>
 <br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/esp32s3_wol" target="_blank">https://blog.yexkr.top/posts/2026/esp32s3_wol</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Yexkr)</author>
         </item>
