@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yexkr.top/</id>
     <title>Yexkr的博客</title>
-    <updated>2026-06-30T11:10:10.041Z</updated>
+    <updated>2026-09-12T10:46:43.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Yexkr</name>
@@ -15,6 +15,26 @@
     <logo>https://pic1.imgdb.cn/item/683a6b0758cb8da5c81e771d.jpg</logo>
     <icon>https://blog.yexkr.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © Yexkr</rights>
+    <entry>
+        <title type="html"><![CDATA[学习记录]]></title>
+        <id>https://blog.yexkr.top/posts/2026/Learning_Record</id>
+        <link href="https://blog.yexkr.top/posts/2026/Learning_Record"/>
+        <updated>2026-08-23T18:27:01.000Z</updated>
+        <content type="html"><![CDATA[<h1>学习记录</h1>
+<p>本文章记录一些学习过程, 持续更新</p>
+<h2>day-1</h2>
+<p>学习Linux平台下的socket使用方法</p>
+<p>首先要创建一个套接字, 并接收返回的文件描述符</p>
+<p><code>auto sockfd = ::socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);</code></p>
+<p>通常文件描述符应为正整数</p>
+<br/><p>访问 <a href="https://blog.yexkr.top/posts/2026/Learning_Record" target="_blank">https://blog.yexkr.top/posts/2026/Learning_Record</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Yexkr</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-08-23T18:27:01.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何禁用CSDN重定向]]></title>
         <id>https://blog.yexkr.top/posts/2026/csdn_redirection_block</id>

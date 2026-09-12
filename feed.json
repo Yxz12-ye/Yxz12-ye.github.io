@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blog.yexkr.top/posts/2026/Learning_Record",
+            "content_html": "<h1>学习记录</h1>\n<p>本文章记录一些学习过程, 持续更新</p>\n<h2>day-1</h2>\n<p>学习Linux平台下的socket使用方法</p>\n<p>首先要创建一个套接字, 并接收返回的文件描述符</p>\n<p><code>auto sockfd = ::socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);</code></p>\n<p>通常文件描述符应为正整数</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/Learning_Record\" target=\"_blank\">https://blog.yexkr.top/posts/2026/Learning_Record</a> 阅读全文。</p>",
+            "url": "https://blog.yexkr.top/posts/2026/Learning_Record",
+            "title": "学习记录",
+            "date_modified": "2026-08-23T18:27:01.000Z",
+            "date_published": "2026-08-23T18:27:01.000Z",
+            "author": {
+                "name": "Yexkr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://blog.yexkr.top/posts/2026/csdn_redirection_block",
             "content_html": "<h1>如何禁用CSDN重定向</h1>\n<h2>事先声明</h2>\n<p>::: warning</p>\n<blockquote>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n<p><strong>不建议</strong>使用CSDN, 本文章只是针对CSDN重定向到登录页面的发现与解决方法!</p>\n</blockquote>\n<p>:::</p>\n<br/><p>访问 <a href=\"https://blog.yexkr.top/posts/2026/csdn_redirection_block\" target=\"_blank\">https://blog.yexkr.top/posts/2026/csdn_redirection_block</a> 阅读全文。</p>",
             "url": "https://blog.yexkr.top/posts/2026/csdn_redirection_block",
